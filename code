@@ -526,5 +526,5 @@ privatejavax.swing.JButtonjButton4;
 }
 /*ABCD*/
 
-/*the command I have used to commit the code is (git commit)
-  the command I have used to push the code is (git push)*/
+/*the command I have used to commit the code is (git commit -m "code")
+  the command I have used to push the code is (git push origin main)*/
